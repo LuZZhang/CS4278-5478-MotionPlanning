@@ -421,4 +421,4 @@ if __name__ == "__main__":
     # dump_action_table(planner.action_table, 'mdp_policy.json')
 
     # spin the ros
-    rospy.spin()
+    rospy.spin() 
